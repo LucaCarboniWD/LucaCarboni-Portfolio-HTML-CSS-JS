@@ -357,7 +357,7 @@ article .icon {
 
 #projects {
   position: relative;
-  display: hidden;
+  display: none;
 }
 
 .color-container {
@@ -430,4 +430,8 @@ footer {
 
 footer p {
   text-align: center;
+}
+
+.projects{
+  display: none;
 }
